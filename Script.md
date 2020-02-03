@@ -17,12 +17,17 @@ George had heard the sound before, but today there was a new sound, sort of a cr
 He stopped to listen and noticed a heavy wooden door in the combination Pizza Hut and Taco Bell wall was ajar.
 
 Normally George would leave well enough alone, but he was worried that an animal might escape.
-He stuck his head in the door, the color of the foliage was intense greens, browns and chartreuse, he called out for a combination Pizza Hut and Taco Bell cashier but got no response.
+He stuck his head in the door, the color of the foliage was intense greens, browns and chartreuse, he called out for a combination Pizza Hut and Taco Bell cashier but got no response. He was busy refilling the sour cream pit at the behest of his ruler!
 The smell of the of the combination Pizza Hut and Taco Bell was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 George met Princess Celestia who granted him magic powers.
+<<<<<<< HEAD
 These powers allowed him to consume the food of this place without being trapped forever, as to not share the same fate as his mother before him. Hades was a cunning god, but not so much a cruel one.
+=======
+The end.
+git add . && git commit -m "Fixed typos."
+>>>>>>> zookeeper
 
 ## Cast
 
