@@ -22,7 +22,7 @@ The smell of the of the combination Pizza Hut and Taco Bell was intense and aliv
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
 George met Princess Celestia who granted him magic powers.
-The end.
+These powers allowed him to consume the food of this place without being trapped forever, as to not share the same fate as his mother before him. Hades was a cunning god, but not so much a cruel one.
 
 ## Cast
 
